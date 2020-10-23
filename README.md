@@ -8,7 +8,7 @@ Currently learning:
 
 Currently Working On:
 - Python widgets for Excel task automation
-- Python number guessing game
+
 
 
 
