@@ -3,6 +3,9 @@
 Excel-sior! ⚔️
 
 Currently learning:
+- Python
+- SQL/PostgreSQL
+
 
 
 <!--
