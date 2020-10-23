@@ -7,7 +7,8 @@ Currently learning:
 - SQL/PostgreSQL
 
 Currently Working On:
-- Python widgets for Excel task automation 
+- Python widgets for Excel task automation
+- Python number guessing game
 
 
 
