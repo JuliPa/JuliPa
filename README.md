@@ -1,6 +1,5 @@
 ### Hi there 👋, Im Julissa
 
-Excel-sior! ⚔️
 
 Currently learning:
 - Python
