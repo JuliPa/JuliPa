@@ -1,4 +1,4 @@
-### Hi there 👋, Im Julissa
+### Hi 👋, Im Julissa
 
 
 Currently learning:
