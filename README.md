@@ -1,14 +1,6 @@
 ### Hi 👋, Im Julissa
 
 
-Currently learning:
-- Python
-- SQL/PostgreSQL
-
-Currently Working On:
-- Python widgets for Excel task automation
-
-
 
 
 
