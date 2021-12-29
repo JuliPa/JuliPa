@@ -1,3 +1,7 @@
+<p align="center">
+  <src=“https://github.com/JuliPa/JuliPa/blob/master/images/Triangle%20Framed%20Congratulations%20Email%20Header.gif”>
+</p>
+
 ### Hi 👋, Im Julissa
 
 
