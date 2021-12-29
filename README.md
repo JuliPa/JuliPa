@@ -1,7 +1,4 @@
-<p align="center">
-  <src=“https://github.com/JuliPa/JuliPa/blob/master/images/Triangle%20Framed%20Congratulations%20Email%20Header.gif”>
-</p>
-
+![Alt Text](https://github.com/JuliPa/JuliPa/blob/master/images/Triangle%20Framed%20Congratulations%20Email%20Header.gif)
 ### Hi 👋, Im Julissa
 
 
