@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1200" height="200" src="https://github.com/JuliPa/JuliPa/blob/master/images/Triangle%20Framed%20Congratulations%20Email%20Header.gif" alt="animated" />
+  <img src="https://github.com/JuliPa/JuliPa/blob/master/images/Triangle%20Framed%20Congratulations%20Email%20Header.gif" alt="animated" />
 </p>
 <!--   ![Alt Text](https://github.com/JuliPa/JuliPa/blob/master/images/Triangle%20Framed%20Congratulations%20Email%20Header.gif) -->
 
