@@ -3,7 +3,7 @@
 </p>
 <!--   ![Alt Text](https://github.com/JuliPa/JuliPa/blob/master/images/Triangle%20Framed%20Congratulations%20Email%20Header.gif) -->
 
-## Hi 👋, Im Julissa (she/her)
+### Hi 👋, Im Julissa (she/her)
 
 ### About Me
 Im a software developer and data analyst working @ CUNY. 
