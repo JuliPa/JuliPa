@@ -1,6 +1,8 @@
 <p align="center">
-  ![Alt Text](https://github.com/JuliPa/JuliPa/blob/master/images/Triangle%20Framed%20Congratulations%20Email%20Header.gif)
+  <img src="https://github.com/JuliPa/JuliPa/blob/master/images/Triangle%20Framed%20Congratulations%20Email%20Header.gif" alt="animated" />
 </p>
+<!--   ![Alt Text](https://github.com/JuliPa/JuliPa/blob/master/images/Triangle%20Framed%20Congratulations%20Email%20Header.gif) -->
+
 ### Hi 👋, Im Julissa
 
 
