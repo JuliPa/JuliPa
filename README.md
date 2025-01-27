@@ -6,7 +6,7 @@
 ### Hi 👋, Im Julissa (she/her)
 
 ### About Me
-Im a software developer and data analyst @ CUNY. 
+Im a data analyst @ CUNY. 
 
 Currently working on:
 
